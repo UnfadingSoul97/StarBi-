@@ -20,6 +20,7 @@ This project entails a star shaped PCB with
 # The Schematic
 <img width="724" height="565" alt="image" src="https://github.com/user-attachments/assets/65810e04-e04b-4c1d-99fe-e6c2f1e47184" />
 
+----
 BOM
  2x Mech Switches
  1x  XIAO ESP32-C3
@@ -27,4 +28,4 @@ BOM
  1x DH11
  1x 10k resistor
  1x 128x64 oled display
- 
+----
